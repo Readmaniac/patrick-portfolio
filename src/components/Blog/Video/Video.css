@@ -1,0 +1,18 @@
+.videocontainer {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  justify-items: center;
+  margin: 50px auto;
+  gap: 20px;
+}
+
+@media screen and (max-width: 1200px) {
+  .videocontainer {
+    grid-template-columns: 1fr;
+  }
+}
+
+.videocontainer__element {
+  max-width: 560px;
+  text-align: justify;
+}
