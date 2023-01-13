@@ -8,9 +8,14 @@ const Splider = () => {
       <Splide
         options={{
           rewind: true,
-          gap: '5rem',
+          gap: '2rem',
           autoplay: true,
-          arrows: false,
+          arrows: true,
+          hasTrack: true,
+          hasAutoplayProgress: true,
+          hasSliderWrapper: true,
+          hasAutoplayProgress: true,
+          hasAutoplayControls: true,
         }}
         aria-label="My Favorite Images"
       >
@@ -34,6 +39,8 @@ const Splider = () => {
             src={require('../../images/work3.jpg')}
             alt="my work"
           />
+        </SplideSlide>
+        <SplideSlide>
           <img
             className="splide-image"
             src={require('../../images/work1.jpg')}

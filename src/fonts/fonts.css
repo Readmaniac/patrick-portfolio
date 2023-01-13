@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Inter';
+  src: url(inter/Inter-Medium.woff2) format('woff2'),
+    url(inter/Inter-Medium.woff) format('woff');
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: 'Orbitron';
+  src: url('./inter/Orbitron-Black.ttf') format('truetype');
+  font-weight: 900;
+}

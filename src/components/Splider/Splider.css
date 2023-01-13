@@ -1,6 +1,8 @@
 .splide-image {
-  width: 500px;
-  height: 250px;
+  width: 700px;
+  height: 350px;
+  border-radius: 50px;
+  border: rgb(233, 206, 72) solid 5px;
 }
 
 .splide-container {
