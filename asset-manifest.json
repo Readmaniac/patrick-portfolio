@@ -1,24 +1,37 @@
 {
   "files": {
-    "main.css": "/patrick-portfolio/static/css/main.efee96b3.css",
-    "main.js": "/patrick-portfolio/static/js/main.05c9b56f.js",
+    "main.css": "/patrick-portfolio/static/css/main.c59f37cf.css",
+    "main.js": "/patrick-portfolio/static/js/main.ea79bb5f.js",
     "static/js/787.41b0c87e.chunk.js": "/patrick-portfolio/static/js/787.41b0c87e.chunk.js",
-    "static/media/work1.jpg": "/patrick-portfolio/static/media/work1.2707e1cf14298bd9973a.jpg",
-    "static/media/work3.jpg": "/patrick-portfolio/static/media/work3.fe6a751ebcaf6c29f8e7.jpg",
-    "static/media/work2.jpg": "/patrick-portfolio/static/media/work2.9420777928e98ac9ed15.jpg",
+    "static/media/start.jpg": "/patrick-portfolio/static/media/start.58355b6b44f25e83e413.jpg",
+    "static/media/HappyNewYear.jpg": "/patrick-portfolio/static/media/HappyNewYear.d5d00d887d536d2e6894.jpg",
+    "static/media/Dino.jpg": "/patrick-portfolio/static/media/Dino.93946f07b2a8e2bd1316.jpg",
     "static/media/Home.jpg": "/patrick-portfolio/static/media/Home.e370d79fdbe48261b2b0.jpg",
-    "static/media/Pencilphoto.jpg": "/patrick-portfolio/static/media/Pencilphoto.9ac684070300e97955b5.jpg",
+    "static/media/LogoColor.jpg": "/patrick-portfolio/static/media/LogoColor.2df64c37aa88a6fa96db.jpg",
+    "static/media/JungleCall.jpg": "/patrick-portfolio/static/media/JungleCall.7fb2e5315be9e07e40ae.jpg",
+    "static/media/GoodGraph.jpg": "/patrick-portfolio/static/media/GoodGraph.2b25d5255ca94bdae411.jpg",
+    "static/media/work.jpg": "/patrick-portfolio/static/media/work.17322a8c0a9354fc92fc.jpg",
+    "static/media/NewYearWalk.jpg": "/patrick-portfolio/static/media/NewYearWalk.d9a5e546b65d688f0dcd.jpg",
+    "static/media/Squad.jpg": "/patrick-portfolio/static/media/Squad.b677302dcf6902d9902b.jpg",
+    "static/media/PositiveGame.jpg": "/patrick-portfolio/static/media/PositiveGame.3fbc1ee532c86c5c48a6.jpg",
+    "static/media/finish.jpg": "/patrick-portfolio/static/media/finish.00dc97a57d3fb4e4bc4e.jpg",
     "static/media/Moya_zastaka_777.svg": "/patrick-portfolio/static/media/Moya_zastaka_777.336d800ce36ff8e762cd901e05214698.svg",
     "static/media/Inter-Medium.woff": "/patrick-portfolio/static/media/Inter-Medium.9053572c46aeb4b16caa.woff",
     "static/media/Inter-Medium.woff2": "/patrick-portfolio/static/media/Inter-Medium.293fd13dbca5a3e450ef.woff2",
+    "static/media/Young.jpg": "/patrick-portfolio/static/media/Young.0b3a377a8af3d424579c.jpg",
+    "static/media/HandMade.jpg": "/patrick-portfolio/static/media/HandMade.1be3b4da71f5724ebf84.jpg",
+    "static/media/Wanted.jpg": "/patrick-portfolio/static/media/Wanted.a880968f4a3f10fec180.jpg",
+    "static/media/Concert.jpg": "/patrick-portfolio/static/media/Concert.b1d3526f6d24d67d37cb.jpg",
+    "static/media/GZL.jpg": "/patrick-portfolio/static/media/GZL.2628194e00ff5e681174.jpg",
+    "static/media/Coffee.jpg": "/patrick-portfolio/static/media/Coffee.4fde6f8a10378e65fadf.jpg",
     "static/media/Orbitron-Black.ttf": "/patrick-portfolio/static/media/Orbitron-Black.6a97ec87e5cd3cf1d1c4.ttf",
     "index.html": "/patrick-portfolio/index.html",
-    "main.efee96b3.css.map": "/patrick-portfolio/static/css/main.efee96b3.css.map",
-    "main.05c9b56f.js.map": "/patrick-portfolio/static/js/main.05c9b56f.js.map",
+    "main.c59f37cf.css.map": "/patrick-portfolio/static/css/main.c59f37cf.css.map",
+    "main.ea79bb5f.js.map": "/patrick-portfolio/static/js/main.ea79bb5f.js.map",
     "787.41b0c87e.chunk.js.map": "/patrick-portfolio/static/js/787.41b0c87e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.efee96b3.css",
-    "static/js/main.05c9b56f.js"
+    "static/css/main.c59f37cf.css",
+    "static/js/main.ea79bb5f.js"
   ]
 }
