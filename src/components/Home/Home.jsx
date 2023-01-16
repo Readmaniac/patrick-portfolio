@@ -1,25 +1,13 @@
-import Splider from '../Splider/Splider'
 import WorkProcess from '../WorkProcess/WorkProcess'
+import Projects from './Projects/Projects'
 import './Home.css'
+import Footer from '../Footer/Footer'
 
 const Home = () => {
   return (
     <>
       <div className="home">
-        <img
-          className="home__photo"
-          src={require('../../images/Pencilphoto.jpg')}
-        />
-        <div className="home__textcontainer">
-          <p className="home__text">Здравствуйте друзья!</p>
-          <p className="home__text">
-            фысвйцйййй йца йааааааааааай йцк упрекрпвыаыы йацйе н5уекыафц
-            фысвйцйййй йца йааааааааааай йцк упрекрпвыаыы йацйе н5уекыафц
-            фысвйцйййй йца йааааааааааай йцк упрекрпвыаыы йацйе н5уекыафц
-            фысвйцйййй йца йааааааааааай йцк упрекрпвыаыы йацйе н5уекыафц
-          </p>
-        </div>
-        <Splider />
+        <Projects />
       </div>
       <WorkProcess />
     </>

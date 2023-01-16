@@ -1,15 +1,11 @@
 .App {
+  max-width: 1440px;
   text-align: center;
   margin: 0 auto;
 }
-/*used by default with nav link*/
-/* .active {
-  color: lightyellow;
-  text-decoration: none;
-} */
 
 .activeLink {
-  color: lightyellow;
+  color: rgb(38, 10, 162);
 }
 
 .link {
@@ -17,7 +13,7 @@
 }
 
 a {
-  color: lightblue;
+  color: rgb(0, 0, 0);
   font-size: 35px;
 }
 

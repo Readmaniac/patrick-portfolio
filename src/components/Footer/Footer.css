@@ -1,0 +1,7 @@
+.footer {
+  max-width: 1440px;
+  background-image: url(../../images/Home.jpg);
+  border-radius: 40px 40px 0 0;
+  text-align: end;
+  padding: 30px;
+}

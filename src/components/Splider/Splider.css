@@ -1,10 +1,17 @@
-.splide-image {
-  width: 700px;
-  height: 350px;
-  border-radius: 50px;
-  border: rgb(233, 206, 72) solid 5px;
-}
-
 .splide-container {
   padding: 50px;
+}
+
+.splide__card {
+  width: 700px;
+  height: 350px;
+  display: flex;
+  flex-direction: row;
+}
+
+.splide__image {
+  width: 200px;
+  height: 300px;
+  border-radius: 50px;
+  border: rgb(233, 206, 72) solid 5px;
 }
