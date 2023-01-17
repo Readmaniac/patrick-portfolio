@@ -5,8 +5,8 @@ const Video = ({ link, text }) => {
     <div className="videocontainer">
       <iframe
         className="videocontainer__element"
-        width="560"
-        height="315"
+        width="400"
+        height="205"
         src={link}
         title="YouTube video player"
         frameborder="0"

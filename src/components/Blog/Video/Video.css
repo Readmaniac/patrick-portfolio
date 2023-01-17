@@ -4,6 +4,7 @@
   justify-items: center;
   margin: 50px auto;
   gap: 20px;
+  align-items: center;
 }
 
 @media screen and (max-width: 1200px) {

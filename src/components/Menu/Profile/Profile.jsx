@@ -2,7 +2,7 @@ import './Profile.css'
 
 const Profile = () => {
   return (
-    <div>
+    <div className={'header__profile'}>
       <div className={'header__profile'}>
         <img
           className={'header__avatar'}

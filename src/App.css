@@ -19,6 +19,14 @@ a {
 
 nav a {
   margin: 15px;
+  font-size: 40px;
+}
+
+@media (max-width: 620px) {
+  nav a {
+    margin: 10px;
+    font-size: 20px;
+  }
 }
 
 nav {
